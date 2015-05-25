@@ -1,4 +1,4 @@
-# picasa-web-album-download
+# Picasa Web Album Download
 Downloads all the images from a Google Picasa public web album... because Picasa doesn't provide that convenience anymore...
 
 ## To Run
