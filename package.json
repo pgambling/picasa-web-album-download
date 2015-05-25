@@ -1,0 +1,13 @@
+{
+  "name": "scrape-google-picasa-album",
+  "version": "0.0.1",
+  "description": "Downloads all the images from a picasa web album.",
+  "main": "scrape.js",
+  "dependencies": {
+    "async": "^1.0.0",
+    "jsdom": "3.x.x"
+  },
+  "devDependencies": {},
+  "author": "Philippe Gambling",
+  "license": "MIT"
+}
